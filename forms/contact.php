@@ -1,4 +1,6 @@
 <?php
+
+echo "JAY : How R u?"
   /**
   * Requires the "PHP Email Form" library
   * The "PHP Email Form" library is available only in the pro version of the template
